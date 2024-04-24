@@ -21,7 +21,7 @@
 ```
 
 ## Extra :
-Visit the following repos for better understanding of firefox theming :
-[Haruzona](https://github.com/Haruzona/penguinFox))
-[migueravila](https://github.com/migueravila/SimpleFox)
+Visit the following repos for better understanding of firefox theming :<br>
+[Haruzona](https://github.com/Haruzona/penguinFox) (PenguinFox)<br>
+[migueravila](https://github.com/migueravila/SimpleFox) (SimpleFox)
 
