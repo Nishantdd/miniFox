@@ -22,5 +22,6 @@
 
 ## Extra :
 Visit the following repos for better understanding of firefox theming :
-https://www.reddit.com/r/unixporn/comments/iujfvd/oc_simplerentfox_minimalist_and_keyboard_centered/
+[Haruzona](https://github.com/Haruzona/penguinFox))
+[migueravila](https://github.com/migueravila/SimpleFox)
 
