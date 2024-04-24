@@ -3,6 +3,7 @@
 <img alt="Vedai" width="800" src="https://github.com/Nishantdd/miniFox/blob/main/img/swappy-20240424_205257.png"></p>
 
 ## ⚙️ Installation
+#### `Note : Please install the font SF Pro Display in your systems or feel free to change the font in userContent.css file for the search box`
 1. In the searchbar type ```about:config```. A dialog will be shown to you. Press the I accept the risk button.
 2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets`, `layers.acceleration.force-enabled`, `gfx.webrender.all`, and `svg.context-properties.content.enabled` and enable them all.
 3. In the searchbar type ```about:profiles```. Search for the profile that says : This is the profile in use and it cannot be deleted.
